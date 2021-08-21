@@ -11,7 +11,7 @@ class MyTodoApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'My Todo App',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: TodoListPage(),
@@ -81,7 +81,7 @@ class _TodoAddPageState extends State<TodoAddPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(_text, style: TextStyle(color: Colors.blue)),
+            Text(_text, style: TextStyle(color: Colors.green)),
             const SizedBox(height: 8),
             TextField(
               onChanged: (String value) {
