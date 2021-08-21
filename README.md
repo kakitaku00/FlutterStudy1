@@ -1,6 +1,9 @@
-# myapp
+# Sample Todo App
 
-A new Flutter project.
+Fluttor学習用に使用したサンプルTODOアプリです
+
+<img width="300" alt="app_image" src="https://user-images.githubusercontent.com/36177545/130317251-97867680-1891-44cc-a57f-ac8bf2cc1067.png">
+
 
 ## Getting Started
 
