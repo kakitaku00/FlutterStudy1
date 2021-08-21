@@ -15,3 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Develop
+
+Start the app by specifying chrome
+
+```
+$ flutter run --device-id chrome
+```
